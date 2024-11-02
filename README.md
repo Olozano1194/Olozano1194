@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy Oscar, un ingeniero en sistemas colombiano de 29 años, <br>especializado en desarrollo Front-End. <br>Me gradué en 2022 y, a lo largo de estos años, <br>he adquirido habilidades en Java, JavaScript, CSS, <br>Git, SQL, entre otros, a través de programas como Oracle, <br>Alura-Latam, MinTic y Platzi.<br><br>Soy una persona responsable que disfruta trabajar en equipo y <br>siempre está en busca de nuevos conocimientos. Tengo un nivel <br>básico de inglés y estoy emocionado por aplicar mis habilidades <br>en proyectos desafiantes.
+¡Hola! Soy Oscar, un ingeniero en sistemas colombiano de 29 años, <br>con un enfoque en el desarrollo Front-End. <br>Me gradué en 2022 y, a lo largo de estos años, <br>he adquirido habilidades en Java, JavaScript, CSS, <br>Git, SQL, entre otros, a través de programas como Oracle, <br>Alura-Latam, MinTic y Platzi.<br><br>Soy una persona responsable que disfruta trabajar en equipo y <br>siempre está en busca de nuevos conocimientos. Tengo un nivel <br>básico de inglés y estoy emocionado por aplicar mis habilidades <br>en proyectos desafiantes.
 
 
 ## 🌐 Socials:
