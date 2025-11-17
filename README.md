@@ -1,5 +1,29 @@
 # 💫 About Me:
-¡Hola! Soy Oscar, un ingeniero en sistemas colombiano de 29 años, <br>con un enfoque en el desarrollo Front-End. <br>Me gradué en 2022 y, a lo largo de estos años, <br>he adquirido habilidades en Java, JavaScript, CSS, <br>Git, SQL, entre otros, a través de programas como Oracle, <br>Alura-Latam, MinTic y Platzi.<br><br>Soy una persona responsable que disfruta trabajar en equipo y <br>siempre está en busca de nuevos conocimientos. Tengo un nivel <br>básico de inglés y estoy emocionado por aplicar mis habilidades <br>en proyectos desafiantes.
+¡Hola 👋! Soy Oscar
+
+Un desarrollador Front-End colombiano apasionado por crear interfaces web intuitivas y con buen diseño. Tras graduarme en Ingeniería de Sistemas en 2022, he estado construyendo y puliendo mis habilidades mediante proyectos prácticos y aprendizaje continuo.
+
+Mi stack principal y tecnologías que manejo:
+
+Frontend: React, TypeScript, Tailwind CSS
+
+Maquetación: HTML Semántico, CSS puro
+
+Backend & Bases de Datos: Django, Express, MySQL, MongoDB
+
+Herramientas: Git
+
+Un poco más sobre mí:
+
+🤝 Disfruto del trabajo en equipo y ya tengo experiencia colaborando en proyectos simulados de desarrollo con No-Country.
+
+🚀 Soy una persona curiosa y autodidacta, siempre en busca de nuevos desafíos que me permitan seguir creciendo profesionalmente.
+
+📚 Mi formación ha sido complementada con cursos de plataformas como Oracle, Alura-Latam, MinTic y Platzi.
+
+🗣️ Tengo un nivel básico de inglés y muchas ganas de aplicar todo lo que sé en proyectos reales y retadores.
+
+¿Tienes una idea o proyecto en mente? ¡Hablemos! Estoy siempre abierto a nuevas oportunidades.
 
 
 ## 🌐 Socials:
